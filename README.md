@@ -7,7 +7,7 @@
 ## Contabilidade
 
 1. [Contabilizei](https://www.contabilizei.com.br)
-2. [Azilize](https://www.agilize.com.br)
+2. [Agilize](https://www.agilize.com.br)
 3. [MEI Facil](https://meifacil.com)
 4. [Qipu](https://www.qipu.com.br/)
 5. [Simplus Contabil](https://simpluscontabil.com.br)
