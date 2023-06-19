@@ -1,5 +1,8 @@
 # The digital company list
 
+"Quando uma nova tecnologia passa por você, se você não faz parte do rolo compressor, faz parte da estrada."
+(Stewart Brand)
+
 ## Bancos
 1. [Nubank](https://nubank.com.br/)
 2. [Original](https://www.original.com.br/)
