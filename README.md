@@ -1,10 +1,10 @@
 # The digital company list
 
-[[_TOC_}}
+[[_TOC_]]
 
-##Bancos
+## Bancos
 
-##Contabilidade
+## Contabilidade
 
 1. [Contabilizei](https://www.contabilizei.com.br)
 2. [Azilize](https://www.agilize.com.br)
