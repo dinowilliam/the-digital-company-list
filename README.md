@@ -1,8 +1,14 @@
 # The digital company list
 
-[[_TOC_]]
-
 ## Bancos
+1. [Nubank](https://nubank.com.br/)
+2. [Original](https://www.original.com.br/)
+3. [C6 Bank](https://www.c6bank.com.br/)
+4. [Next](https://next.me/)
+5. [Inter](https://www.bancointer.com.br/)
+6. [Neon](https://neon.com.br/)
+7. [Will Bank](https://www.willbank.com.br/)
+8. [PagBank](https://pagseguro.uol.com.br/conta-digital/conta-digital-gratis)
 
 ## Contabilidade
 
